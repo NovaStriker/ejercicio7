@@ -1,0 +1,24 @@
+div#imagenprincipal {
+	background-image: url('../img/fondo.jpg');
+	background-size: 80%;
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+.margiz {
+	margin-left: auto;
+}
+
+div.item-div {
+	text-align: center;
+}
+
+img.muestra {
+	height: 170px;
+}
+
+a.boton {
+	background-color: grey;
+	max-width: 100px;
+	position: inherit;
+}
