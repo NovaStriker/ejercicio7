@@ -22,3 +22,31 @@ a.boton {
 	max-width: 100px;
 	position: inherit;
 }
+
+.jumbotron {
+	height: 400px;
+}
+
+#tipos-cafe {
+	margin: 6%;
+}
+
+h3 {
+	text-align: center;
+}
+
+img.rounded-circle {
+	margin-left: 15%;
+	margin-top: 15%;
+	margin-bottom: 10%;
+	height: 140px;
+	width: 140px;
+}
+
+a[class="btn btn-secondary"] {
+	text-align: center;
+}
+
+p + p {
+	text-align: center;
+}
